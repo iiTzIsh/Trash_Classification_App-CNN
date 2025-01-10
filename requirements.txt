@@ -25,16 +25,16 @@ Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-ml-dtypes==0.4.1
+ml-dtypes==0.2.0  # Adjusted to match TensorFlow's requirement
 namex==0.0.8
 narwhals==1.21.1
-numpy==1.23.5  # TensorFlow compatible version
+numpy==1.23.5  # Compatible with TensorFlow
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
-protobuf==3.20.3  # TensorFlow compatible version
+protobuf==3.20.3  # Compatible with TensorFlow
 pyarrow==12.0.1
 pydeck==0.9.1
 Pygments==2.19.1
