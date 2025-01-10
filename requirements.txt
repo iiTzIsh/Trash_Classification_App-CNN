@@ -61,7 +61,7 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.10.1
 tensorflow-estimator==2.10.1
-tensorflow_intel==2.10.0
+tensorflow_intel==2.10.1
 termcolor==2.5.0
 toml==0.10.2
 tornado==6.4.2
