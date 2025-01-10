@@ -14,7 +14,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 google-pasta==0.2.0
 grpcio==1.51.1
-h5py==3.8.0
+h5py>=3.10.0  # Updated to match TensorFlow's requirement
 idna==3.10
 Jinja2==3.1.5
 jsonschema==4.23.0
